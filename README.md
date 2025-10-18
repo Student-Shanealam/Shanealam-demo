@@ -1,2 +1,3 @@
 # Shanealam-demo
-This my first repository
+This my first Git repository.
+author-Shanealam
